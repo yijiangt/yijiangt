@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yijiangt/yijiangt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I’m James 👋
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Undergraduate Student at University of Michigan
+
+Distributed Systems, Databases, Storage
+
+Reach me at: **yijiangt@umich.edu**
+
+Hobbies: 🏀 💪 ⚽️ 🎾 👾
