@@ -7,7 +7,7 @@
 
 Undergraduate Student at University of Michigan
 
-Distributed Systems, Databases, Storage
+Distributed Systems, Databases, ML Systems
 
 Reach me at: **yijiangt@umich.edu**
 
